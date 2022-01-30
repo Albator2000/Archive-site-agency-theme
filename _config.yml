@@ -18,7 +18,7 @@ url    : "https://albator2000.github.io/" # the base hostname & protocol for you
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Mise aux poings
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : mathieunathalie31@gmail.com #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Your Name
 # logo:     #optional, defaults to site title
