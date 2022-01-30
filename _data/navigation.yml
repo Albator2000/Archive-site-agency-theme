@@ -1,0 +1,26 @@
+nav:
+#    - title: "Services"
+#      section: services
+
+    - title: "Horaires"
+      section: horaire
+
+    - title: "Team"
+      section: team
+          
+    - title: "Sponsors"
+      section: portfolio
+
+  #- title: "About"
+  #  section: timeline
+
+
+
+  #- title: "Tutu"
+  #  section: tutu
+
+  #- title: "Contact"
+  #  section: contact
+
+  #- title: "External"
+  #  url: https://raviriley.github.io

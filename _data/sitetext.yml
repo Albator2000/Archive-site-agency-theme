@@ -1,0 +1,150 @@
+header:
+    title: ""
+    text: "Mise aux Poings Boxing Club"
+    button: "Dossier d'inscription"
+    buttonlink: "https://drive.google.com/drive/folders/15bsnt1pe65n70yWHl5iw4ksiCdzyFdwZ?usp=sharing"
+
+#services:
+#  title: "Services"
+#  text: "Lorem ipsum"
+#  section: toto
+#  list:
+#    - title: "E-Commerce"
+#      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#      icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#    - title: "Responsive Design"
+#      desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#      icon: fas fa-laptop
+#    - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#      desc: "Your description here, full **Markdown** support"
+#      icon: fab fa-markdown
+horaire:
+    title: "Nos horaires"
+    text: "Du Lundi au vendredi à Ramonville"
+    section: horaire
+    image1: assets/img/horaires_2021.jpg
+    image2: assets/img/tarifs_2021.png
+
+team:
+    title: "Notre Equipe"
+    text: "15 ans d'amitié sur et en dehors des tatamis"
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
+    people:
+      - name: "Mathieu Raimondi"
+        role: "Trésorier"
+        image: assets/img/team/Mathieu_.jpg
+
+      - name: "Alice Castaing"
+        role: "Présidente"
+        image: assets/img/team/Alice-Castaing.jpeg
+      - name: "Ratchana Simonet"
+        role: "Secrétaire"
+        image: assets/img/team/Ratchana_S.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in                               
+ 
+      - name: "Jean Philippe Castaing"
+        role: "Instructeur boxe pieds/poings"
+        image: assets/img/team/JeanPhi_C.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in   
+ 
+      - name: "Nicolas Trameçon"
+        role: "Instructeur MMA"
+        image: assets/img/team/Nicolas_T.jpg
+
+      - name: "Nicolas Simonet"
+        role: "Instructeur boxe pieds/poings"
+        image: assets/img/team/Nicolas_S.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+portfolio:
+    title: "Nos sponsors"
+    text: "Merci à eux pour leur soutien"
+    section: portfolio
+
+timeline:
+    title: "About" 
+    text: "Lorem ipsum timeline"
+    section: timeline
+    events:
+      - title: "Our Humble Beginnings"
+        year: "2009-2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/1.jpg
+        alt: 
+        align: left
+      - title: "An Agency is Born"
+        year: "March 2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/2.jpg
+        alt: 
+        align: right
+      - title: "Jekyll Theme is created"
+        year: "2019"
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+        #align: #default is left       
+      - title: "Title"
+        year: "2009-2011"
+        desc: "Your description here, **Markdown** is fully supported."
+        image: assets/img/timeline/4.jpg
+        alt: 
+        align: right
+    end: "Be Part <br> of Our <br> Story!"
+
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+
+clients:
+    section: clients
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+                              
+contact:
+    title: "Contact Us"
+    text: "Lorem ipsum or call 123456789"
+    section: contact
+    image: assets/img/horaires.jpg
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://fr-fr.facebook.com/miseauxpoings/
+        icon: "fab fa-facebook-f"
+      - url: https://www.instagram.com/mise_aux_poings/?hl=fr
+        icon: "fab fa-instagram"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
