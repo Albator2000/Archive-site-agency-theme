@@ -12,9 +12,9 @@
 # in the templates via {{ site.myvariable }}.
 
 theme: jekyll-agency
-#remote_theme: raviriley/agency-jekyll-theme
+remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://albator2000.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Mise aux poings
