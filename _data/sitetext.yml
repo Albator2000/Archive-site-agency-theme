@@ -24,7 +24,7 @@ horaire:
     section: horaire
     image1: assets/img/Horaires2022.png
     
-Tarifs:
+tarifs:
     title: "Tarifs"
     text: ""
     section: horaire
