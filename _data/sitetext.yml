@@ -31,7 +31,7 @@ tarifs:
     image1: assets/img/tarifs_2022.png
 
 team:
-    title: "Notre Equipe"
+    title: "L'Equipe"
     text: "15 ans d'amitié sur et en dehors des tatamis"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
