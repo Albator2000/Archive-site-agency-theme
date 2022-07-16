@@ -21,7 +21,7 @@ header:
 horaire:
     title: "Horaires"
     text: "Ramonville - Tous les jours de la semaine"
-    text2: "Deyme - Tous les lundi soir"    
+    text2: "Deyme - Tous les lundi soir de 21h à 22h15"    
     section: horaire
     image1: assets/img/Horaires2022.png
     
