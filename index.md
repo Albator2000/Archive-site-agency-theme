@@ -2,4 +2,4 @@
 layout: home
 ---
 
-# HELLO
+# Boxe pour tous
