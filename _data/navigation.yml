@@ -8,8 +8,8 @@ nav:
     - title: "Team"
       section: team
           
-    - title: "Sponsors"
-      section: portfolio
+ #   - title: "Sponsors"
+ #     section: portfolio
 
   #- title: "About"
   #  section: timeline
