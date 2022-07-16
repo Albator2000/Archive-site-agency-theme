@@ -18,12 +18,7 @@ header:
 #    - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
 #      desc: "Your description here, full **Markdown** support"
 #      icon: fab fa-markdown
-horaire:
-    title: "Horaires"
-    text: "Ramonville - Tous les jours de la semaine"
-    text2: "Deyme - Tous les lundi soir de 21h à 22h15"    
-    section: horaire
-    image1: assets/img/Horaires2022.png
+
     
 tarifs:
     title: "Tarifs"
@@ -31,6 +26,13 @@ tarifs:
     section: tarifs
     image1: assets/img/tarifs_2022.png
 
+horaire:
+    title: "Horaires"
+    text: "Ramonville - Tous les jours de la semaine"
+    text2: "Deyme - Tous les lundi soir de 21h à 22h15"    
+    section: horaire
+    image1: assets/img/Horaires2022.png
+    
 team:
     title: "L'Equipe"
     text: "15 ans d'amitié sur et en dehors des tatamis"
