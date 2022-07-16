@@ -19,7 +19,7 @@ header:
 #      desc: "Your description here, full **Markdown** support"
 #      icon: fab fa-markdown
 horaire:
-    title: "Nos horaires"
+    title: "Horaires"
     text: "Du Lundi au vendredi à Ramonville"
     section: horaire
     image1: assets/img/Horaires2022.png
