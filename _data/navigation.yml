@@ -1,6 +1,6 @@
 nav:
-    - title: "Services"
-      section: services
+  - title: "Services"
+    section: services
 
 #    - title: "Horaires"
 #      section: horaire
