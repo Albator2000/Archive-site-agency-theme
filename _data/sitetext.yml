@@ -23,7 +23,12 @@ horaire:
     text: "Du Lundi au vendredi à Ramonville"
     section: horaire
     image1: assets/img/Horaires2022.png
-    image2: assets/img/tarifs_2021.png
+    
+horaire:
+    title: "Tarifs"
+    text: ""
+    section: horaire
+    image1: assets/img/tarifs_2021.png
 
 team:
     title: "Notre Equipe"
