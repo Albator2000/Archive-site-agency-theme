@@ -123,10 +123,19 @@ team:
 #    text: "Lorem ipsum or call 123456789"
 #    section: contact
 #    image: assets/img/horaires.jpg
-footer:
-    legal: "Privacy Policy"
+
+#footer:
+#    legal: "Privacy Policy"
+ #   social:
+  #    - url: https://fr-fr.facebook.com/miseauxpoings/
+   #     icon: "fab fa-facebook-f"
+    #  - url: https://www.instagram.com/mise_aux_poings/?hl=fr
+     #   icon: "fab fa-instagram"
+
+  footer:
+    legal: "Política de Privacidad"
     social:
-      - url: https://fr-fr.facebook.com/miseauxpoings/
+      - url: https://facebook.com
         icon: "fab fa-facebook-f"
       - url: https://www.instagram.com/mise_aux_poings/?hl=fr
         icon: "fab fa-instagram"
