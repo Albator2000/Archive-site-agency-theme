@@ -1,12 +1,12 @@
 nav:
-#    - title: "Services"
-#      section: services
+    - title: "Services"
+      section: services
 
-    - title: "Horaires"
-      section: horaire
+#    - title: "Horaires"
+#      section: horaire
 
-    - title: "Team"
-      section: team
+#    - title: "Team"
+#      section: team
           
  #   - title: "Sponsors"
  #     section: portfolio
