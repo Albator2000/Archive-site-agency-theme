@@ -27,7 +27,7 @@ horaire:
 tarifs:
     title: "Tarifs"
     text: ""
-    section: horaire
+    section: tarifs
     image1: assets/img/tarifs_2021.png
 
 team:
